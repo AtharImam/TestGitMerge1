@@ -8,6 +8,7 @@ namespace TestGitMerge1
         {
             Console.WriteLine("m1");
             Console.WriteLine("f1");
+            Console.WriteLine("f2");
         }
     }
 }
