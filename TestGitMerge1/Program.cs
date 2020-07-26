@@ -14,6 +14,8 @@ namespace TestGitMerge1
             Console.WriteLine("m4");
             Console.WriteLine("m5");
             Console.WriteLine("m6");
+            Console.WriteLine("f3");
+            Console.WriteLine("f4");
         }
     }
 }
