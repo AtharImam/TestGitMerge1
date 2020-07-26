@@ -7,6 +7,7 @@ namespace TestGitMerge1
         static void Main(string[] args)
         {
             Console.WriteLine("m1");
+            Console.WriteLine("f1");
         }
     }
 }
